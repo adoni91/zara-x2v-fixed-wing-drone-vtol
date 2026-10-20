@@ -35,12 +35,7 @@ Here are more details regarding its design and configuration:
 * **Nose Section:** Streamlined to house avionics, cameras, or specialized sensors (such as air quality and environmental monitoring payloads).
 
 
-
-
-
 <img width="1149" height="1369" alt="WhatsApp Image 2026-09-19 at 09 28 28" src="https://github.com/user-attachments/assets/62b883cf-4612-4a8e-a5ca-401744b1e4bd" />
-
-https://github.com/user-attachments/assets/999a0882-e1dc-40f4-990f-71587d55909e
 
 
 The **ZARA X2V Fixed-Wing VTOL Drone** provides an exceptionally capable platform for tactical and environmental surveillance missions, especially in remote, rugged, or restricted terrains such as dense jungles and protected wildlife reserves.
@@ -89,5 +84,7 @@ The design characteristics of the **ZARA X2V Fixed-Wing VTOL Drone** also lend t
 ### **3. Advanced Payload Integration**
 
 * **Sensor and Optics Housing:** The streamlined **nose section** provides dedicated space for high-resolution electro-optical/infrared (EO/IR) cameras, laser designators, or secure communication relays to transmit real-time data back to mobile command units.  
+
+https://github.com/user-attachments/assets/999a0882-e1dc-40f4-990f-71587d55909e
 
 
