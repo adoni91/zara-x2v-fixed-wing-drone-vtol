@@ -85,6 +85,8 @@ The design characteristics of the **ZARA X2V Fixed-Wing VTOL Drone** also lend t
 
 * **Sensor and Optics Housing:** The streamlined **nose section** provides dedicated space for high-resolution electro-optical/infrared (EO/IR) cameras, laser designators, or secure communication relays to transmit real-time data back to mobile command units.  
 
+<img width="1240" height="701" alt="Screenshot 2026-10-21 at 08 43 33" src="https://github.com/user-attachments/assets/41b9b8c5-98bd-46c5-bc6c-88a7a16e5c57" />
+
 https://github.com/user-attachments/assets/999a0882-e1dc-40f4-990f-71587d55909e
 
 
